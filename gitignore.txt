@@ -1,0 +1,8 @@
+# Visual C++ cache files
+ipch/
+*.opendb
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
