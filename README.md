@@ -1,2 +1,2 @@
-# openCVContourDetection
-Testowa aplikacja rozpoznawania konturu obrazu w języku C++.
+# contour-detection
+C++ application to recognize object's contours.
